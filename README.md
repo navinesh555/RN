@@ -14,5 +14,5 @@
 | nAVI | This is Navi |
 
 
-- [ ] T*h*is is `Super Man` Navi
+- [ ] T**h**is is `Super Man` Navi
 
